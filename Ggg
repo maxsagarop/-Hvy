@@ -1,19 +1,20 @@
-
-    {
-      "id": 1,
-      "name": "Rahim",
-      "email": "rahim@example.com",
-      "is_active": true
-    },
-    {
-      "id": 2,
-      "name": "Karim",
-      "email": "karim@example.com",
-      "is_active": false
-    },
-    {
-      "id": 3,
-      "name": "Jabbar",
-      "email": "jabbar@example.com",
-      "is_active": true
-    },
+[
+  {
+    "id": 1,
+    "name": "Rahim",
+    "email": "rahim@example.com",
+    "is_active": true
+  },
+  {
+    "id": 2,
+    "name": "Karim",
+    "email": "karim@example.com",
+    "is_active": false
+  },
+  {
+    "id": 3,
+    "name": "Jabbar",
+    "email": "jabbar@example.com",
+    "is_active": true
+  }
+]
